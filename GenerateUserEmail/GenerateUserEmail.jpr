@@ -59,6 +59,15 @@
       <value n="j2eeWebAppName" v="GenerateUserEmail-GenerateUserEmail-webapp"/>
       <value n="j2eeWebContextRoot" v="GenerateUserEmail-GenerateUserEmail-context-root"/>
    </hash>
+   <hash n="oracle.jdeveloper.runner.RunConfigurations">
+      <hash n="runConfigurationDefinitions">
+         <hash n="Default">
+            <value n="custom" v="false"/>
+            <value n="name" v="Default"/>
+            <url n="targetURL" path="src/generateuseremail/GenerateUserEmail.java"/>
+         </hash>
+      </hash>
+   </hash>
    <hash n="oracle.jdevimpl.config.JProjectPaths">
       <url n="outputDirectory" path="classes/"/>
    </hash>

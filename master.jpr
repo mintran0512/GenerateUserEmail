@@ -80,7 +80,7 @@
          <list n="libraryDefinitions">
             <hash>
                <list n="classPath">
-                  <url path="oimclient.jar" jar-entry=""/>
+                  <url path="GenerateUserEmail/oimclient.jar" jar-entry=""/>
                </list>
                <value n="deployedByDefault" v="true"/>
                <value n="description" v="Oimclient.jar"/>
